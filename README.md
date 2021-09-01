@@ -8,6 +8,8 @@ by Eric Matthes
 https://automatetheboringstuff.com/ (Free online book - great starting place)
 https://www.udemy.com/course/automate/ (course that complements the book)
 
+https://pbpython.com (Practical Business Python by Chris Moffit @chris1610 https://github.com/chris1610/pbpython)
+
 https://www.kaggle.com/learn/python
 
 https://nostarch.com/pythoncrashcourse2e
